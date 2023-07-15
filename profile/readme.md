@@ -7,15 +7,19 @@
 
 <img src="https://i.imgur.com/99qj8DD.png/" height=90px width= 90px align="middle"><img>
 
-👋 Welcome to the Steam's world GitHub page! Steam's world is a development team that works on many types of projects, mainly pertainning to Minecraft: Java Edition. 
-This page is for our public projects that people like you can use for yourself!
-Also, we are open for commissions, please join the discord server linked above and make a ticket!
 
-### ⭐ - What I do
+Welcome to the GitHub page of Steam's World! Steam's World is a dedicated development team specializing in various projects, with a primary focus on Minecraft: Java Edition. This platform showcases our publicly available projects that you can utilize for your own purposes.
 
-· Create Minecraft: Java Edition Plugins that range from versions 1.8 all to way to the most modern version. \
-· Design ![Discord](https://discord.com) Bots that interact with the user in many ways. (including tickets, invoices, and moderation). \
-· Provide quality work to anyone that hires me for commission work.
+Additionally, we offer commission-based services to cater to specific requirements. We invite you to join our Discord server, accessible through the link provided above, where you can create a ticket to discuss potential collaborations.
+
+### ⭐ What's our expertise?
+· Minecraft: Java Edition Plugins: We are skilled in custom plugins that enhance gameplay and functionality within the Minecraft universe. Our plugins are meticulously designed, thoroughly tested, and compatible with multiple versions of the game.
+
+· Discord Bots: We are skilled in developing sophisticated Discord bots that interact with users in diverse ways. From ticket management and invoicing systems to powerful moderation tools, our bots are engineered to streamline community engagement and administration.
+
+### ❓Do you do commission work?
+
+We take great pride in delivering high-quality results to our clients. When you choose Steam's World for commission work, you can expect professionalism, attention to detail, and a commitment to meeting your specific requirements. Whether you need a tailored Minecraft plugin or a custom Discord bot, our experienced team is dedicated to providing exceptional solutions.
 
 ### 🖥️ - Languages
 These are the languages that the projects are coded in:
